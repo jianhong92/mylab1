@@ -1,0 +1,3 @@
+"My Chemical Romance Nanana"
+"fenditan" 
+"https://github.com/sgtech-ict2102/lab01.git"
